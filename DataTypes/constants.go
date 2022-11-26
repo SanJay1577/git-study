@@ -1,10 +1,10 @@
-package main
+package datatypes
 
 import (
 	"fmt"
 )
 
-func main() {
+func Constant() {
 	fmt.Println("constant")
 	fmt.Println("Typed Constants .....")
 	const indentifier string = "hello"
